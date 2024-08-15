@@ -1,0 +1,2 @@
+- Converting various numbers to their word equivalents.
+- Handling invalid inputs and ensuring appropriate errors are raised.

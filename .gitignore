@@ -1,0 +1,31 @@
+# Ignore bundler config.
+/.bundle/
+
+# Ignore the Gemfile.lock, which can cause issues across different environments.
+/Gemfile.lock
+
+# Ignore editor-specific files.
+/.idea/
+/.vscode/
+/.DS_Store
+
+# Ignore temporary files.
+/tmp/
+/log/
+/coverage/
+/spec/reports/
+
+# Ignore system files
+/.DS_Store
+/.AppleDouble
+/._*
+
+# Ignore documentation artifacts
+/yardoc/
+/_yardoc/
+/doc/
+/*.log
+
+# Ignore generated files by RSpec
+/.rspec_status
+/test.rb
