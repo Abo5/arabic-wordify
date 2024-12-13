@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/Abo5/arabic-wordify/badge.svg?branch=main)](https://coveralls.io/github/Abo5/arabic-wordify?branch=main)
 # arabic-wordify - Arabic Number to Words Converter
 
 arabic-wordify is a Ruby gem that converts Arabic numbers into their word equivalents in Arabic. It supports numbers up to a septillion (1 followed by 24 zeros), including trillions, quadrillions, quintillions, sextillions, and septillions.
